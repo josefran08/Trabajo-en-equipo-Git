@@ -1,5 +1,10 @@
-UPDATE personas
-SET apellido2 = 'RODRIGUEZ'
-WHERE nombre = 'ANTONIO'
-AND apellido1 = 'GARCIA'
-AND apellido2 = 'BENITO';
+UPDATE usuario1
+SET apellido = 'RODRIGUEZ'
+WHERE nombre = 'ANTONIO';
+
+UPDATE aula2
+SET numero = 3
+WHERE numero = 1;
+
+
+
