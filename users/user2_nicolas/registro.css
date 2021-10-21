@@ -1,0 +1,48 @@
+*{ 
+    padding: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body{
+    background-image: url("https://cdn.andro4all.com/files/2021/07/Fondo-de-pantalla-Reddit-8.jpg?width=700");
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+h1{
+    color: rgb(6, 48, 49);
+}
+
+
+input[name="Edad"]{
+    width: 20%;
+    
+    background: white;
+    border-radius:6px 6px 6px 6px;
+    margin-top: 10px;
+    
+}
+input[name="Dirección"]{
+    width: 20%;
+    
+    background: white;
+    border-radius:6px 6px 6px 6px;
+    margin-top: 10px;
+}
+input[name="nombre"]{
+    width: 20%;
+   
+    background: white;
+    border-radius:6px 6px 6px 6px;
+    margin-top: 10px;
+}
+input[name="Apellidos"]{
+    width: 20%;
+    
+    background: white;
+    border-radius:6px 6px 6px 6px;
+    margin-top: 10px;
+    
+}

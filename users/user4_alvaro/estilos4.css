@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    font-size: 80px;
+    padding-bottom: 15%;
+    padding-top: 20px;
+    color: #fff;
+}
+body{
+    background-image: url("https://cdn.statically.io/img/aionsur.com/f=auto/wp-content/uploads/2020/08/f64f3270-47dc-46c0-9401-5a9f5798cb75-min.jpg");
+    background-size:100%;
+    text-align: center;
+}
+input[type="text"]{
+    width: 25%;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius:6px 6px 6px 6px;
+}
+input[type="submit"]{
+    width: 20%;
+    padding: 15px;
+    background: #246eb9;
+    border-radius:6px 6px 6px 6px;
+    margin-top: 10px;
+    
+}
+ .error {
+    max-width: 15%;
+	margin: auto;
+	background: #ce1818;
+	color: #fff;
+    border-radius:6px 6px 6px 6px;
+    text-align:justify;
+}
+
+input[type="button"]{
+    width: 20%;
+    padding: 15px;
+    background: #246eb9;
+    border-radius:6px 6px 6px 6px;
+    margin-top: 10px;
+}

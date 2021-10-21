@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UFT-8">
+        <link rel="stylesheet" href="registro.css">
+        <title>Registro de alumno</title>
+    </head>
+
+    <body>
+        <h1>REGISTRO DEL ALUMNO</h1>
+        <form action="2parte.html" class="formulario" method="POST" id="formulario2" name="formulario2" target="_black" >
+
+            <div class="contenedor-inputs">
+                <input type="text" name="nombre" placeholder="Nombre">
+                <ul class="error" id="error"></ul>
+            </div>   
+            <div class="contenedor-inputs">
+                <input type="text" name="Apellidos" placeholder="Apellidos">
+                <ul class="error" id="error"></ul>
+            </div>
+            <div class="contenedor-inputs">
+                <input type="text" name="Dirección" placeholder="Dirección">
+                <ul class="error" id="error"></ul>
+            </div>
+            <div class="contenedor-inputs">
+                <input type="number" name="Edad" placeholder="Edad">
+                <ul class="error" id="error"></ul>
+            </div>
+            
+            
+            <input type="submit" class="btn" value="Aceptar">    
+            
+            
+        </form>
+        <form class="formulario" method="GET" id="formulario" name="formulario" target="_black" action="../user1_pablo/inicio.html" >
+            <input type="submit" class="btn" value="Atrás">
+            </form>
+    </body>
+    <script src="formulario2.js"></script>
+</html> 
