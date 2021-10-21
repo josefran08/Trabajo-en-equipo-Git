@@ -1,16 +1,16 @@
 UPDATE usuario1
-SET apellido = 'RODRIGUEZ'
-WHERE nombre = 'ANTONIO';
+SET apellido = 'RUIZ'
+WHERE nombre = 'NICOLAS';
 
 UPDATE aula2
 SET numero = 3
 WHERE numero = 1;
 
 UPDATE curso3
-SET nombre = 'IAW'
-WHERE nombre = 'Fundamentos de Hardware';
+SET nombre = 'SAD'
+WHERE nombre = 'SISTEMA OPERATIVO';
 
 UPDATE edificio4
-SET numero = 4
-WHERE numero = 1;
+SET numero = 3
+WHERE numero = 2;
 
