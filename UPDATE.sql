@@ -13,4 +13,3 @@ WHERE nombre = 'Sistema operativo';
 UPDATE edificio4
 SET numero = 4
 WHERE numero = 5;
-
