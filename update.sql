@@ -1,15 +1,15 @@
-UPDATE USUARIO1 
-SET 
-WHERE ;
+UPDATE usuario1
+SET apellido = 'RUIZ'
+WHERE nombre = 'NICOLAS';
 
-UPDATE AULA2
-SET 
-WHERE ;
+UPDATE aula2
+SET numero = 5
+WHERE numero = 2;
 
-UPDATE CURSO3
-SET 
-WHERE ;
+UPDATE curso3
+SET nombre = 'SAD'
+WHERE nombre = 'Sistema operativo';
 
-UPDATE EDIFICIO4
-SET 
-WHERE ;
+UPDATE edificio4
+SET numero = 4
+WHERE numero = 1;
